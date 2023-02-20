@@ -1,7 +1,7 @@
 #include	<stdio.h>
 
 /**
- * main	-	A programme printing the alphabet lower case(lc) and upper case(uc)
+ * main	-	A programme printing the alphabet lower case and upper case
  *
  * Return:	Always	0	(success)
  */
